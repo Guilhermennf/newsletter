@@ -31,4 +31,6 @@ npm run dev
 
 Esse projeto foi feito com base em um desafio no site https://www.frontendmentor.io/ e tem como intuito colocar em prática os meus conhecimentos em React + Scss.
 
+Link do desafio: https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv
+
 Link do deploy: [https://star-wars-movies-gamma.vercel.app](https://newsletter-gules-tau.vercel.app/)https://newsletter-gules-tau.vercel.app/
